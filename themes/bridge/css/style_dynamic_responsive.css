@@ -1,0 +1,56 @@
+@media only screen and (max-width: 1000px){
+		.header_bottom {
+		background-color: #161616;
+	}
+				.header_bottom,
+		nav.mobile_menu{
+			background-color: #161616 !important;
+		}
+			}
+@media only screen and (min-width: 480px) and (max-width: 768px){
+	
+	        section.parallax_section_holder{
+			height: auto !important;
+			min-height: 400px;
+		}
+		}
+@media only screen and (max-width: 768px){
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+			.title.title_size_large h1 {
+			font-size: 48px!important; 			line-height: 48px!important; 		}
+	
+}
+@media only screen and (max-width: 600px) {
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+			.title.title_size_large h1 {
+			font-size: 36px!important; 			line-height: 36px!important; 		}
+	}
+@media only screen and (max-width: 480px){
+
+			section.parallax_section_holder {
+			height: auto !important;
+			min-height: 400px;
+		}
+	
+		
+	}
